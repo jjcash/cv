@@ -1,0 +1,34 @@
+@font-face {
+    font-family: raleway;
+    src: url(/fonts/Raleway-VariableFont_wght.ttf);
+}
+body {
+    background-color: #789AFF;
+}
+hr {
+    border-style: dotted none none;
+    color: #213983;
+    border-width: 4px;
+    width: 85%;
+}
+h1 {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+table {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+footer {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+li {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
+strong {
+    font-family: raleway, Arial, Helvetica, sans-serif;
+}
